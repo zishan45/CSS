@@ -1,0 +1,43 @@
+.loader{
+    height: 120px;
+    width: 120px;
+    background-color: red;
+    margin-left: 550px;
+    border-radius: 50%;
+
+    border: 20px solid black;
+    border-top: 20px solid blue;
+    animation: Animation 1s ease-in 1s infinite normal;
+}
+
+.eliminator{
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+    margin-left: 500px;
+    margin-top: 20px;
+    border-radius: 50%;
+
+    border: 20px solid black;
+    border-top: 20px solid rgb(241, 221, 107);
+    
+    animation: IPL 1s ease-in 1s infinite normal;
+}
+
+@keyframes Animation{
+    from{
+       transform: rotate(odeg);
+    }
+    to{
+       transform: rotate(360deg);
+    }
+}
+
+@keyframes IPL{
+    from{
+       transform: rotate(odeg);
+    }
+    to{
+       transform: rotate(360deg);
+    }
+}
