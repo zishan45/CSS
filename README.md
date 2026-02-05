@@ -16,3 +16,12 @@ Modern layout techniques (Flexbox / Grid)
 Reusable and maintainable styles.
 <br>
 Cross-browser compatible.
+<br><hr>
+<br>
+I have Practiced CSS by dividing it into 4 different sets in which:
+<br>
+SET-1 includes -- basic CSS properties like Text Properties, BOX MOdels, Margin & Padding concepts.
+<BR>
+SET-2 includes -- Display Properties & Loading Circle or we can say "Transition Properties"
+<br>
+SET-3 includes -- POSITION PROPERTY, FLEX BOX PROPERTIES, Z-index, Transition Properties & Animation Properties.
