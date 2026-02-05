@@ -1,0 +1,258 @@
+#box1{ 
+    height:100px;
+    width:100px;
+    border-radius: 25PX;
+    background: rgb(191, 191, 25);
+    text-align: center;
+    border-width:20px;
+    border-style:double;
+    border-color: blue;
+}
+
+#box2{
+    background: blue;
+    height:100px;
+    width:100px;
+    border: 10px solid black;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+#box2{
+    padding: 30px 40px 20px 10px;
+}
+
+#box3{
+    background: yellow;
+
+    height: 40px;
+    width: 40px;
+    border: 5px solid black;
+    padding: 10px 20px 40px 30px;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+#box3{
+    margin: 30px 20px 30px 20px;
+}
+
+/*  shorthand of border-->  border: width style color
+        shorthand of padding-->  padding: top right bottom left
+        shorthand of margin-->  margin: top right bottom left
+    */
+
+                                      /* practice set 3  */
+
+#ps3{
+    text-align: center;
+}
+
+#rohit45{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    text-align: center;
+    border-radius: 50%;
+    /* display:none; */
+    /* visibility:hidden; */
+}
+
+#amazon.navbar{
+     height: 50px;
+     color: black;
+     background-color:black;
+     display: flex;
+     flex-wrap: wrap;
+}
+                               
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 160px;
+    padding-top:60px;
+}
+
+display{
+background-color: yellow;
+display: inline;
+}
+
+dbutton{
+   background-color: aqua;
+   display: block;
+}
+
+#heading2{
+    color: blue;
+    font-size: larger;
+    font-weight: 500;
+    text-align: center;
+}
+
+#zis1{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    
+}
+
+#zis2{
+background-color: rgb(181, 181, 161);
+height: 100px;
+width: 100px;
+visibility: hidden;
+
+}
+
+#zis3{
+background-color: rgb(84, 84, 77);
+height: 100px;
+width: 100px;
+display: none;
+}
+
+#zis4{
+    background-color: rgb(57, 57, 129);
+    height: 100px;
+    width: 100px;
+}
+
+#bumrah{
+    background-color: blue;
+    font-size: larger;
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+    background-color: rgba(255,0,0,1);
+    text-align: center;
+}
+
+#flex{
+    height: 250px;
+    width: 850px;
+    background-color: black;
+    margin-left: 170px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:center;
+    justify-content: space-between;
+}
+
+#div{
+    width: 200px;
+}
+
+#box1{
+    text-align: center;
+    text-decoration: underline;
+    background-color:rgb(75, 75, 120);
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+#box2{
+    text-align: center;
+    text-decoration: underline;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+#box3{
+    text-align: center;
+    text-decoration: underline;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin-top: 22px;
+}
+
+#box4{
+    text-align: center;
+    text-decoration: underline;
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+#navbar{
+    background-color: red;
+    height: 200px;
+    width: 850px;
+    margin-left: 170px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+.ro{
+height: 200px;
+width: 200px;
+background-color: blue;
+margin-left: 530px;
+
+display: flex;
+flex-direction: row;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+#kl{
+height: 100px;
+width: 100px;
+background-color: red;
+text-align: center;
+text-transform: capitalize;
+text-decoration: double;
+}
+
+#MQ{
+    height: 200px;
+    width: 240px;
+    background-color: rgb(43, 150, 154);
+    margin-left: 500px;
+}
+
+@media (max-width: 300px){
+       #MQ{
+        background-color: green;
+       }  
+}
+
+@media (min-width: 300px) and (max-width: 400px){
+    #MQ{
+        background-color: pink;
+       }         
+}
+
+@media (min-width: 400px) and (max-width: 600px){
+    #MQ{
+        background-color: red;
+       }  
+}
+
+@media (min-width: 600px) and (max-width: 1800px){
+    #MQ{
+        background-color: blue;
+       }   
+}
+
