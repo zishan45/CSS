@@ -26,3 +26,9 @@ SET-2 includes -- Display Properties & Loading Circle or we can say "Transition 
 SET-3 includes -- POSITION PROPERTY, FLEX BOX PROPERTIES, Z-index, Transition Properties & Animation Properties.
 <br>
 SET-4 includes -- Navigation Bar & Basic Amazon Clone Layout.
+<hr>
+🤝 Connect With Me-
+* LinkedIn: https://Linkedin.com/in/zishanahmed45
+* GitHub: https://github.com/zishan45
+* Email: zishanahmed.official@gmail.com
+* LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/
