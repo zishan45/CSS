@@ -30,5 +30,5 @@ SET-4 includes -- Navigation Bar & Basic Amazon Clone Layout.
 🤝 Connect With Me- <br>
 * LinkedIn: https://Linkedin.com/in/zishanahmed45    <br>
 * GitHub: https://github.com/zishan45   <br>
-* Email: zishanahmed.official@gmail.com  <br>
 * LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/   <br>
+* Email: zishanahmed.official@gmail.com<br>
