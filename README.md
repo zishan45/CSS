@@ -6,7 +6,7 @@ A simple and responsive CSS project focused on clean design, modern layouts, and
 <br>
 This repository demonstrates my understanding of CSS fundamentals, layouts, and styling best practices.
 <br>
-🚀 Features:
+🚀 Features: <br>
 Clean and well-structured CSS.
 <br>
 Responsive design (mobile-first approach)
