@@ -28,7 +28,7 @@ SET-3 includes -- POSITION PROPERTY, FLEX BOX PROPERTIES, Z-index, Transition Pr
 SET-4 includes -- Navigation Bar & Basic Amazon Clone Layout.
 <hr>
 🤝 Connect With Me-
-* LinkedIn: https://Linkedin.com/in/zishanahmed45
-* GitHub: https://github.com/zishan45
-* Email: zishanahmed.official@gmail.com
-* LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/
+* LinkedIn: https://Linkedin.com/in/zishanahmed45    <br>
+* GitHub: https://github.com/zishan45   <br>
+* Email: zishanahmed.official@gmail.com  <br>
+* LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/   <br>
